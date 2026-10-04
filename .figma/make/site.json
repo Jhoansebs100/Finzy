@@ -1,0 +1,10 @@
+{
+  "description": "This educational banking app offers users an interactive platform to learn about financial management through engaging tutorials and practical tools.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
