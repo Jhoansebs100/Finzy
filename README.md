@@ -55,7 +55,6 @@ Muchos niños y adolescentes reciben dinero con regularidad, pero no tienen herr
 
 ## 🖼️ Capturas de pantalla
 
-> Agrega aquí las capturas reales de la aplicación en la carpeta `docs/img/`.
 
 <div align="center">
 
